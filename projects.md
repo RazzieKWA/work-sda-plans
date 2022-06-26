@@ -1,4 +1,4 @@
 # Project list
 
-- [] Doing my first task on Bootcamp course
-- [] Learning how to code
+- [x] Doing my first task on Bootcamp course
+- [x] Learning how to code
