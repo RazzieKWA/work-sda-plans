@@ -1,5 +1,5 @@
 # Things to do:
 
-- Learning GIT 
-- Drink Coffee
-- Have fun ;)
+- [x] Learning GIT 
+- [] Drink Coffee
+- [x] Have fun ;)
